@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AZ-1stProj/1.0.0": {
+        "runtime": {
+          "AZ-1stProj.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AZ-1stProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

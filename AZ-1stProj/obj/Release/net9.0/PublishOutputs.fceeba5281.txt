@@ -1,0 +1,7 @@
+D:\Azure\Code\AZ-1stProj\bin\Publish\AZ-1stProj.exe
+D:\Azure\Code\AZ-1stProj\bin\Publish\appsettings.Development.json
+D:\Azure\Code\AZ-1stProj\bin\Publish\appsettings.json
+D:\Azure\Code\AZ-1stProj\bin\Publish\AZ-1stProj.dll
+D:\Azure\Code\AZ-1stProj\bin\Publish\AZ-1stProj.deps.json
+D:\Azure\Code\AZ-1stProj\bin\Publish\AZ-1stProj.runtimeconfig.json
+D:\Azure\Code\AZ-1stProj\bin\Publish\AZ-1stProj.pdb
